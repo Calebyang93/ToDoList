@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "Usw87M9d7lzKP0/ZgMPxb289rEDdEB9FTmwzaYWhrZTRwM7ivJGhTTWDku/92Wcd4ghDr9ZTeRUmn5MI/3huow==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\lenovo\\My Drive\\Data\\Code\\NoteTaker\\NT.WebApi\\NT.WebApi.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'C:\\Program Files\\Microsoft SDKs\\Service Fabric\\packages' doesn't exist.",
+      "libraryId": "Microsoft.DotNet.ILCompiler"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'C:\\Program Files\\Microsoft SDKs\\Service Fabric\\packages' doesn't exist.",
+      "libraryId": "Microsoft.NET.ILLink.Tasks"
+    }
+  ]
+}

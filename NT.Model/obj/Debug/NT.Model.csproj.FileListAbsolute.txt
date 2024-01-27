@@ -1,0 +1,12 @@
+D:\C#CodeRepositories\source\repos\NT.Model\bin\Debug\NT.Model.dll
+D:\C#CodeRepositories\source\repos\NT.Model\bin\Debug\NT.Model.pdb
+D:\C#CodeRepositories\source\repos\NT.Model\obj\Debug\NT.Model.csproj.AssemblyReference.cache
+D:\C#CodeRepositories\source\repos\NT.Model\obj\Debug\NT.Model.csproj.CoreCompileInputs.cache
+D:\C#CodeRepositories\source\repos\NT.Model\obj\Debug\NT.Model.dll
+D:\C#CodeRepositories\source\repos\NT.Model\obj\Debug\NT.Model.pdb
+C:\Users\lenovo\My Drive\Data\Code\NoteTaker\NT.Model\bin\Debug\NT.Model.dll
+C:\Users\lenovo\My Drive\Data\Code\NoteTaker\NT.Model\bin\Debug\NT.Model.pdb
+C:\Users\lenovo\My Drive\Data\Code\NoteTaker\NT.Model\obj\Debug\NT.Model.csproj.AssemblyReference.cache
+C:\Users\lenovo\My Drive\Data\Code\NoteTaker\NT.Model\obj\Debug\NT.Model.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\My Drive\Data\Code\NoteTaker\NT.Model\obj\Debug\NT.Model.dll
+C:\Users\lenovo\My Drive\Data\Code\NoteTaker\NT.Model\obj\Debug\NT.Model.pdb

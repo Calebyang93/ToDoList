@@ -1,0 +1,15 @@
+D:\C#CodeRepositories\source\repos\NT.Data\bin\Debug\NT.Data.dll
+D:\C#CodeRepositories\source\repos\NT.Data\bin\Debug\NT.Data.pdb
+D:\C#CodeRepositories\source\repos\NT.Data\bin\Debug\NT.Model.dll
+D:\C#CodeRepositories\source\repos\NT.Data\bin\Debug\NT.Model.pdb
+D:\C#CodeRepositories\source\repos\NT.Data\obj\Debug\NT.Data.csproj.AssemblyReference.cache
+D:\C#CodeRepositories\source\repos\NT.Data\obj\Debug\NT.Data.csproj.CoreCompileInputs.cache
+D:\C#CodeRepositories\source\repos\NT.Data\obj\Debug\NT.Data.csproj.CopyComplete
+D:\C#CodeRepositories\source\repos\NT.Data\obj\Debug\NT.Data.dll
+D:\C#CodeRepositories\source\repos\NT.Data\obj\Debug\NT.Data.pdb
+D:\C#CodeRepositories\source\repos\NT.Data\bin\Debug\log4net.dll
+D:\C#CodeRepositories\source\repos\NT.Data\bin\Debug\log4net.xml
+C:\Users\lenovo\My Drive\Data\Code\NoteTaker\NT.Data\obj\Debug\NT.Data.csproj.AssemblyReference.cache
+C:\Users\lenovo\My Drive\Data\Code\NoteTaker\NT.Data\obj\Debug\NT.Data.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\My Drive\Data\Code\NoteTaker\NT.Data\obj\Debug\NT.Data.dll
+C:\Users\lenovo\My Drive\Data\Code\NoteTaker\NT.Data\obj\Debug\NT.Data.pdb

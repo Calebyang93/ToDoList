@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "9oIy2KQrThrlGwmXlvnpaB2IDMBJB8yJoKDztJu5z7s=",
+  "Source": "NT.WebApiClient",
+  "BasePath": "_content/NT.WebApiClient",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

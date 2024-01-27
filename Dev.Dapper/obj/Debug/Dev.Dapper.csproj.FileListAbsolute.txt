@@ -1,0 +1,12 @@
+C:\Users\lenovo\My Drive\Data\Code\NoteTaker\Dev.Dapper\bin\Debug\Dev.Dapper.exe.config
+C:\Users\lenovo\My Drive\Data\Code\NoteTaker\Dev.Dapper\bin\Debug\Dev.Dapper.exe
+C:\Users\lenovo\My Drive\Data\Code\NoteTaker\Dev.Dapper\bin\Debug\Dev.Dapper.pdb
+C:\Users\lenovo\My Drive\Data\Code\NoteTaker\Dev.Dapper\bin\Debug\Dapper.Contrib.dll
+C:\Users\lenovo\My Drive\Data\Code\NoteTaker\Dev.Dapper\bin\Debug\Dapper.dll
+C:\Users\lenovo\My Drive\Data\Code\NoteTaker\Dev.Dapper\bin\Debug\Dapper.xml
+C:\Users\lenovo\My Drive\Data\Code\NoteTaker\Dev.Dapper\bin\Debug\Dapper.Contrib.xml
+C:\Users\lenovo\My Drive\Data\Code\NoteTaker\Dev.Dapper\obj\Debug\Dev.Dapper.csproj.AssemblyReference.cache
+C:\Users\lenovo\My Drive\Data\Code\NoteTaker\Dev.Dapper\obj\Debug\Dev.Dapper.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\My Drive\Data\Code\NoteTaker\Dev.Dapper\obj\Debug\Dev.Dapper.csproj.CopyComplete
+C:\Users\lenovo\My Drive\Data\Code\NoteTaker\Dev.Dapper\obj\Debug\Dev.Dapper.exe
+C:\Users\lenovo\My Drive\Data\Code\NoteTaker\Dev.Dapper\obj\Debug\Dev.Dapper.pdb

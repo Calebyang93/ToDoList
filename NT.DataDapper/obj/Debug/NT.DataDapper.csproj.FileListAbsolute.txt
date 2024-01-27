@@ -1,0 +1,26 @@
+D:\C#CodeRepositories\source\repos\NT.DataDapper\bin\Debug\NT.DataDapper.dll
+D:\C#CodeRepositories\source\repos\NT.DataDapper\bin\Debug\NT.DataDapper.pdb
+D:\C#CodeRepositories\source\repos\NT.DataDapper\bin\Debug\NT.DataInterface.dll
+D:\C#CodeRepositories\source\repos\NT.DataDapper\bin\Debug\NT.Model.dll
+D:\C#CodeRepositories\source\repos\NT.DataDapper\bin\Debug\NT.DataInterface.pdb
+D:\C#CodeRepositories\source\repos\NT.DataDapper\bin\Debug\NT.Model.pdb
+D:\C#CodeRepositories\source\repos\NT.DataDapper\obj\Debug\NT.DataDapper.csproj.AssemblyReference.cache
+D:\C#CodeRepositories\source\repos\NT.DataDapper\obj\Debug\NT.DataDapper.csproj.CoreCompileInputs.cache
+D:\C#CodeRepositories\source\repos\NT.DataDapper\obj\Debug\NT.DataDapper.csproj.CopyComplete
+D:\C#CodeRepositories\source\repos\NT.DataDapper\obj\Debug\NT.DataDapper.dll
+D:\C#CodeRepositories\source\repos\NT.DataDapper\obj\Debug\NT.DataDapper.pdb
+C:\Users\lenovo\My Drive\Data\Code\NoteTaker\NT.DataDapper\bin\Debug\NT.DataDapper.dll
+C:\Users\lenovo\My Drive\Data\Code\NoteTaker\NT.DataDapper\bin\Debug\NT.DataDapper.pdb
+C:\Users\lenovo\My Drive\Data\Code\NoteTaker\NT.DataDapper\bin\Debug\Dapper.Contrib.dll
+C:\Users\lenovo\My Drive\Data\Code\NoteTaker\NT.DataDapper\bin\Debug\Dapper.dll
+C:\Users\lenovo\My Drive\Data\Code\NoteTaker\NT.DataDapper\bin\Debug\NT.DataInterface.dll
+C:\Users\lenovo\My Drive\Data\Code\NoteTaker\NT.DataDapper\bin\Debug\NT.Model.dll
+C:\Users\lenovo\My Drive\Data\Code\NoteTaker\NT.DataDapper\bin\Debug\NT.DataInterface.pdb
+C:\Users\lenovo\My Drive\Data\Code\NoteTaker\NT.DataDapper\bin\Debug\NT.Model.pdb
+C:\Users\lenovo\My Drive\Data\Code\NoteTaker\NT.DataDapper\bin\Debug\Dapper.xml
+C:\Users\lenovo\My Drive\Data\Code\NoteTaker\NT.DataDapper\bin\Debug\Dapper.Contrib.xml
+C:\Users\lenovo\My Drive\Data\Code\NoteTaker\NT.DataDapper\obj\Debug\NT.DataDapper.csproj.AssemblyReference.cache
+C:\Users\lenovo\My Drive\Data\Code\NoteTaker\NT.DataDapper\obj\Debug\NT.DataDapper.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\My Drive\Data\Code\NoteTaker\NT.DataDapper\obj\Debug\NT.DataDapper.csproj.CopyComplete
+C:\Users\lenovo\My Drive\Data\Code\NoteTaker\NT.DataDapper\obj\Debug\NT.DataDapper.dll
+C:\Users\lenovo\My Drive\Data\Code\NoteTaker\NT.DataDapper\obj\Debug\NT.DataDapper.pdb

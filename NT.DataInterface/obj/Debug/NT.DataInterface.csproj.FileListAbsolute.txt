@@ -1,0 +1,18 @@
+D:\C#CodeRepositories\source\repos\NT.DataInterface\bin\Debug\NT.DataInterface.dll
+D:\C#CodeRepositories\source\repos\NT.DataInterface\bin\Debug\NT.DataInterface.pdb
+D:\C#CodeRepositories\source\repos\NT.DataInterface\bin\Debug\NT.Model.dll
+D:\C#CodeRepositories\source\repos\NT.DataInterface\bin\Debug\NT.Model.pdb
+D:\C#CodeRepositories\source\repos\NT.DataInterface\obj\Debug\NT.DataInterface.csproj.AssemblyReference.cache
+D:\C#CodeRepositories\source\repos\NT.DataInterface\obj\Debug\NT.DataInterface.csproj.CoreCompileInputs.cache
+D:\C#CodeRepositories\source\repos\NT.DataInterface\obj\Debug\NT.DataInterface.csproj.CopyComplete
+D:\C#CodeRepositories\source\repos\NT.DataInterface\obj\Debug\NT.DataInterface.dll
+D:\C#CodeRepositories\source\repos\NT.DataInterface\obj\Debug\NT.DataInterface.pdb
+C:\Users\lenovo\My Drive\Data\Code\NoteTaker\NT.DataInterface\bin\Debug\NT.DataInterface.dll
+C:\Users\lenovo\My Drive\Data\Code\NoteTaker\NT.DataInterface\bin\Debug\NT.DataInterface.pdb
+C:\Users\lenovo\My Drive\Data\Code\NoteTaker\NT.DataInterface\bin\Debug\NT.Model.dll
+C:\Users\lenovo\My Drive\Data\Code\NoteTaker\NT.DataInterface\bin\Debug\NT.Model.pdb
+C:\Users\lenovo\My Drive\Data\Code\NoteTaker\NT.DataInterface\obj\Debug\NT.DataInterface.csproj.AssemblyReference.cache
+C:\Users\lenovo\My Drive\Data\Code\NoteTaker\NT.DataInterface\obj\Debug\NT.DataInterface.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\My Drive\Data\Code\NoteTaker\NT.DataInterface\obj\Debug\NT.DataInterface.csproj.CopyComplete
+C:\Users\lenovo\My Drive\Data\Code\NoteTaker\NT.DataInterface\obj\Debug\NT.DataInterface.dll
+C:\Users\lenovo\My Drive\Data\Code\NoteTaker\NT.DataInterface\obj\Debug\NT.DataInterface.pdb

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "EJ59B4etMCobB/uRE0T+vQ4FdizIHjm5f3ieD67+YEu32pkgXc9AAGBEHqVdXTU6zbeblmLk7YUl3jiKgM8mcw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lenovo\\My Drive\\Data\\Code\\NoteTaker\\NT.WebApiClient\\NT.WebApiClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lenovo\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.0\\microsoft.dotnet.ilcompiler.8.0.0.nupkg.sha512",
+    "C:\\Users\\lenovo\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.0\\microsoft.net.illink.tasks.8.0.0.nupkg.sha512",
+    "C:\\Users\\lenovo\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.5\\microsoft.visualstudio.azure.containers.tools.targets.1.19.5.nupkg.sha512",
+    "C:\\Users\\lenovo\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.0\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

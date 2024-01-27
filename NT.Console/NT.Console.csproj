@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{3F130CC4-F88D-4589-BD4C-FAF0221471A0}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <RootNamespace>NT.Console</RootNamespace>
+    <AssemblyName>NT.Console</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="log4net, Version=2.0.15.0, Culture=neutral, PublicKeyToken=669e0ddf0bb1aa2a, processorArchitecture=MSIL">
+      <HintPath>..\packages\log4net.2.0.15\lib\net45\log4net.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Dev.Dapper\Dev.Dapper.csproj">
+      <Project>{0e4efc9f-7b32-44d8-8f7a-b301cd7bf5ad}</Project>
+      <Name>Dev.Dapper</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\NT.DataDapper\NT.DataDapper.csproj">
+      <Project>{88d9d78a-fc3f-499c-8ab5-2dc34fcc94f6}</Project>
+      <Name>NT.DataDapper</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\NT.DataInterface\NT.DataInterface.csproj">
+      <Project>{3b9f7275-f558-4651-80ab-4389898d10ab}</Project>
+      <Name>NT.DataInterface</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\NT.Data\NT.Data.csproj">
+      <Project>{f90c2617-3760-464e-87e2-32b87805dc79}</Project>
+      <Name>NT.Data</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\NT.Model\NT.Model.csproj">
+      <Project>{56e088d7-f69e-4f84-a178-2051f76ccc24}</Project>
+      <Name>NT.Model</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\NT.WebApi2\NT.WebApi2.csproj">
+      <Project>{e6b10911-6ded-4d0f-bd6f-4f3bb817ff68}</Project>
+      <Name>NT.WebApi2</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
