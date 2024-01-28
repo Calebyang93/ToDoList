@@ -137,8 +137,7 @@ Api .Net 8 projects run on docker.
   
 **## Contributing**
 
-The CONTRIBUTING.md is still in progress. Please be patient before contributing to open source. 
-Look out to the CONTRIBUTING.md: CONTRIBUTING.md file for more information. We will update you. 
+Read contributing.md before contributing to this project as an open source developer. 
 
 **## License**
 
